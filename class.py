@@ -11,5 +11,5 @@ class Phone :
 
 myPhone = Phone()
 
-print(Phone.name)
-print(Phone.ram)
+print(myPhone.name)
+print(myPhone.ram)
