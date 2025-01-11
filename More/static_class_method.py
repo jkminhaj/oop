@@ -1,0 +1,2 @@
+@staticmethod
+@classmethod
