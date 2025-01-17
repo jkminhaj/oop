@@ -31,7 +31,6 @@ class Shop :
         
         
 
-
 minhaj = Shop("minhaj")
 
 minhaj.addToCart("Rice",2,70)
