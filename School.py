@@ -6,7 +6,6 @@ class Teacher :
     def __repr__ (self):
         return(f"Teacher : {self.name} , ID : {self.id} , Subject : {self.subject}")
     
-
 class Student :
     def __init__(self , name , currentClass, id) :
         self.name = name 
