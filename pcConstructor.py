@@ -1,5 +1,4 @@
 # Pc model
-
 class PC :
     
     def off (self) :
